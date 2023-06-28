@@ -1,0 +1,346 @@
+@media (min-width: 320px) and (max-width: 575px) {
+/* ===== navbar css starts ===== */
+.navbar{
+  text-align: center;
+}
+.navbar .logo{
+  width: 100px;
+}
+.navbar ul{
+  margin-top: 15px;
+}
+.navbar ul li{
+  padding: 10px 0;
+}
+/* ===== navbar css ends ===== */
+/* ===== banner css starts ===== */
+#banner{
+  padding-top: 200px;
+  padding-bottom: 100px;
+}
+#banner .details h1{
+  font-size: 30px;
+}
+#banner .details h2{
+  font-size: 26px;
+}
+/* ===== banner css ends ===== */
+/* ===== about css starts ===== */
+#about{
+  padding-top: 30px;
+}
+#about .items{
+  margin-top: 50px;
+}
+/* ===== about css ends ===== */
+/* ===== works css starts ===== */
+#works h1{
+  text-align: center;
+}
+#works .card-area{
+  margin-bottom: 60px;
+}
+#works .card-area h2{
+  margin-top: 5px;
+}
+#works .card-area h3{
+  margin-top: 5px;
+}
+#works .card-area p{
+  margin-top: 10px;
+}
+/* ===== works css ends ===== */
+/* ===== quottation css starts ===== */
+
+#quottation p{
+  padding: 0;
+  margin-top: 20px;
+  text-align: justify;
+}
+/* ===== quottation css ends ===== */
+/* ===== footer css starts ===== */
+#footer .heading h4{
+  margin-top: 20px;
+}
+/* #footer .copyright{
+  padding-top: 40px;
+} */
+#footer .copyright p{
+  font-size: 12px;
+}
+/* ===== footer css ends ===== */
+}
+@media (min-width: 576px) and (max-width: 767px) {
+/* ===== navbar css starts ===== */
+.navbar{
+  text-align: center;
+}
+.navbar .logo{
+  width: 100px;
+}
+.navbar ul{
+  margin-top: 15px;
+}
+.navbar ul li{
+  padding: 10px 0;
+}
+/* ===== navbar css ends ===== */
+/* ===== banner css starts ===== */
+#banner{
+  padding-top: 200px;
+  padding-bottom: 100px;
+}
+#banner .details h1{
+  font-size: 30px;
+}
+#banner .details h2{
+  font-size: 26px;
+}
+/* ===== banner css ends ===== */
+/* ===== about css starts ===== */
+#about{
+  padding-top: 30px;
+}
+#about .items{
+  margin-top: 50px;
+}
+/* ===== about css ends ===== */
+/* ===== works css starts ===== */
+#works h1{
+  text-align: center;
+}
+#works .card-area{
+  margin-bottom: 60px;
+}
+#works .card-area h2{
+  margin-top: 5px;
+}
+#works .card-area h3{
+  margin-top: 5px;
+}
+#works .card-area p{
+  margin-top: 10px;
+}
+/* ===== works css ends ===== */
+/* ===== quottation css starts ===== */
+#quottation p{
+  padding: 0;
+  margin-top: 20px;
+}
+/* ===== quottation css ends ===== */
+/* ===== footer css starts ===== */
+#footer .heading h4{
+  margin-top: 20px;
+}
+#footer .copyright{
+  padding-top: 40px;
+}
+#footer .copyright p{
+  font-size: 14px;
+}
+/* ===== footer css ends ===== */
+}
+@media (min-width: 768px) and (max-width: 991px) {
+/* ===== navbar css starts ===== */
+.navbar{
+  text-align: center;
+}
+.navbar .logo{
+  width: 100px;
+}
+.navbar ul{
+  margin-top: 15px;
+}
+.navbar ul li{
+  padding: 10px 0;
+}
+/* ===== navbar css ends ===== */
+/* ===== banner css starts ===== */
+#banner{
+  padding-top: 200px;
+  padding-bottom: 100px;
+}
+#banner .details h1{
+  font-size: 30px;
+}
+#banner .details h2{
+  font-size: 26px;
+}
+/* ===== banner css ends ===== */
+/* ===== about css starts ===== */
+#about{
+  padding-top: 30px;
+}
+#about .items{
+  margin-top: 50px;
+}
+/* ===== about css ends ===== */
+/* ===== works css starts ===== */
+#works .card-area h2{
+  font-size: 14px;
+}
+#works .card-area h2{
+  margin-top: 5px;
+}
+#works .card-area h3{
+  margin-top: 5px;
+}
+#works .card-area p{
+  margin-top: 10px;
+}
+/* ===== works css ends ===== */
+/* ===== quottation css starts ===== */
+#quottation p{
+  padding: 0;
+  margin-top: 20px;
+}
+/* ===== quottation css ends ===== */
+/* ===== footer css starts ===== */
+#footer .heading h4{
+  margin-top: 20px;
+}
+#footer .copyright{
+  padding-top: 40px;
+}
+#footer .copyright p{
+  font-size: 14px;
+  text-align: center;
+}
+/* ===== footer css ends ===== */
+}
+@media (min-width: 992px) and (max-width: 1199px) {
+/* ===== navbar css starts ===== */
+.navbar{
+  padding: 30px 0;
+  text-align: center;
+}
+.navbar .logo{
+  width: 100px;
+}
+.navbar ul{
+  margin-top: 15px;
+}
+.navbar ul li{
+  padding: 10px 0;
+}
+/* ===== navbar css ends ===== */
+/* ===== banner css starts ===== */
+#banner{
+  padding-top: 200px;
+  padding-bottom: 100px;
+}
+#banner .details h1{
+  font-size: 30px;
+}
+#banner .details h2{
+  font-size: 26px;
+}
+/* ===== banner css ends ===== */
+/* ===== about css starts ===== */
+#about{
+  padding-top: 30px;
+}
+#about .items{
+  margin-top: 50px;
+}
+/* ===== about css ends ===== */
+/* ===== works css starts ===== */
+#works .card-area h2{
+  font-size: 14px;
+}
+#works .card-area h2{
+  margin-top: 5px;
+}
+#works .card-area h3{
+  margin-top: 5px;
+}
+#works .card-area p{
+  margin-top: 10px;
+}
+/* ===== works css ends ===== */
+/* ===== quottation css starts ===== */
+#quottation p{
+  padding: 0;
+  margin-top: 20px;
+}
+/* ===== quottation css ends ===== */
+/* ===== footer css starts ===== */
+#footer .heading h4{
+  margin-top: 20px;
+}
+#footer .copyright{
+  padding-top: 40px;
+}
+#footer .copyright p{
+  font-size: 14px;
+}
+/* ===== footer css ends ===== */
+}
+@media (min-width: 1200px) and (max-width: 1399px) {
+/* ===== navbar css starts ===== */
+.navbar{
+  padding: 30px 0;
+  text-align: center;
+}
+.navbar .logo{
+  width: 100px;
+}
+.navbar ul{
+  margin-top: 15px;
+}
+.navbar ul li{
+  padding: 10px 0;
+}
+/* ===== navbar css ends ===== */
+/* ===== banner css starts ===== */
+#banner{
+  padding-top: 200px;
+  padding-bottom: 100px;
+}
+#banner .details h1{
+  font-size: 30px;
+}
+#banner .details h2{
+  font-size: 26px;
+}
+/* ===== banner css ends ===== */
+/* ===== about css starts ===== */
+#about{
+  padding-top: 30px;
+}
+#about .items{
+  margin-top: 50px;
+}
+/* ===== about css ends ===== */
+/* ===== works css starts ===== */
+#works .card-area h2{
+  font-size: 14px;
+}
+#works .card-area h2{
+  margin-top: 5px;
+}
+#works .card-area h3{
+  margin-top: 5px;
+}
+#works .card-area p{
+  margin-top: 10px;
+}
+/* ===== works css ends ===== */
+/* ===== quottation css starts ===== */
+#quottation p{
+  padding: 0;
+  margin-top: 20px;
+}
+/* ===== quottation css ends ===== */
+/* ===== footer css starts ===== */
+#footer .heading h4{
+  margin-top: 20px;
+}
+#footer .copyright{
+  padding-top: 40px;
+}
+#footer .copyright p{
+  font-size: 14px;
+}
+/* ===== footer css ends ===== */
+}
